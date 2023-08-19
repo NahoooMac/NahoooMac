@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Java , c++**
 
-- 👨‍💻 All of my projects are available at [https://nahom-mekonen-portfolio.w3spaces.com/](https://nahom-mekonen-portfolio.w3spaces.com/)
+- 👨‍💻 All of my projects are available at [[https://nahom-mekonen-portfolio.w3spaces.com](https://nahom-mekonen.w3spaces.com/#)/]([https://nahom-mekonen-portfolio.w3spaces.com/](https://nahom-mekonen.w3spaces.com/#))
 
 - 💬 Ask me about **react and vue**
 
